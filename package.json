@@ -1,0 +1,18 @@
+{
+  "name": "git-merge-texts",
+  "version": "1.0.0",
+  "description": "Debitoor text merge tool",
+  "bin": {
+    "git-merge-texts": "git-merge-texts.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e-conomic/git-merge-texts"
+  },
+  "author": "Mirza Kapetanovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-conomic/git-merge-texts/issues"
+  },
+  "homepage": "https://github.com/e-conomic/git-merge-texts"
+}
