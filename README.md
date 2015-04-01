@@ -2,7 +2,7 @@
 
 Small utility script for merging texts in debitoor-app.
 
-	npm install git-merge-texts
+	npm install -g git-merge-texts
 
 # Usage
 
